@@ -1,8 +1,8 @@
 {
     "static_param": "Divxd70a1kJ5s7bBdUnkQB0283uyEx03",
     "format": "13:{}:{:x}:609e7984",
-    "checksum_indexes": [38, 34, 24, 10, 32, 21, 24, 16, 15, 32, 19, 22, 11, 30, 28, 6, 27, 10, 33, 17, 32, 30, 0, 10, 21, 33, 21, 39, 7, 30, 8, 13],
-    "checksum_constant": -43,
+    "checksum_indexes": [2, 38, 39, 36, 37, 2, 36, 29, 9, 27, 11, 34, 38, 29, 6, 34, 18, 32, 12, 1, 17, 14, 9, 12, 10, 22, 37, 11, 13, 20, 28, 28],
+    "checksum_constant": 45,
     "remove_headers": ["user-id"],
     "error_code": 0,
     "message": ""
